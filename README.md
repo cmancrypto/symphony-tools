@@ -7,6 +7,10 @@ Symphony Tools is a Python package that provides utilities for working with Cosm
 
 ## Installation
 
+Clone the repo. 
+
+Create and activate virtual environment of choice 
+
 Install requirements:
 
 ```pip install -r requirements.txt```
